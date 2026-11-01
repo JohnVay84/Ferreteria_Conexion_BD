@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Ignorar otros proyectos y carpetas personales en la raíz de Documents
+/Cajero_Automatico/
+/Conteo_Votaciones/
+/Control_Notas/
+/Proyectos Android Studio IUPB/
+/VirtualDJ/
+/GanttProject/
+/Mi música/
+/Mis vídeos/
+/Mis imágenes/
+/Custom Office Templates/
+/Plantillas personalizadas de Office/
+/*.mp4
